@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm <a href="https://career.habr.com/kovalina1" target="_blank">Marina </a></h1>
-<h2 align="center">HTML/Markup Developer, Frontend Developer</h2>
+<h2 align="center">Web Developer</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
